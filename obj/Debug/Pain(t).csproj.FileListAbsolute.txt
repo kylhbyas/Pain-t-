@@ -1,0 +1,16 @@
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\bin\Debug\Pain(t).exe.config
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\bin\Debug\Pain(t).exe
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\bin\Debug\Pain(t).pdb
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t).csproj.AssemblyReference.cache
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t).csproj.SuggestedBindingRedirects.cache
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\MainWindow.g.cs
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\App.g.cs
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t)_MarkupCompile.cache
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t)_MarkupCompile.lref
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\MainWindow.baml
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t).g.resources
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain_t_.Properties.Resources.resources
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t).csproj.GenerateResource.cache
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t).csproj.CoreCompileInputs.cache
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t).exe
+C:\Users\kylhbyas\source\repos\Pain(t)\Pain(t)\obj\Debug\Pain(t).pdb
